@@ -8,7 +8,7 @@ test('Somma 2 + 2 e restituisce 4', () => {
 });
 
 // Test per l'addizione "sbagliata"
-test('Somma 3 + 5 ma verifica se è uguale a 7 (dovrebbe fallire)', () => {
+test.skip('Somma 3 + 5 ma verifica se è uguale a 7 (dovrebbe fallire)', () => {
   const result = operations.add(3, 5);
   expect(result).toBe(7); // Questa asserzione fallirà
 });
