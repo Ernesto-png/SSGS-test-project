@@ -1,8 +1,8 @@
-# Node.js Calculator Project
+# 🧮 Node.js Calculator Project
 
 Questo progetto è una semplice **calcolatrice** sviluppata in **Node.js** che permette di eseguire operazioni matematiche di base attraverso una **applicazione a riga di comando (CLI)**.
 
-## Funzionalità
+## 🚀 Funzionalità
 - Addizione
 - Sottrazione
 - Moltiplicazione
@@ -10,7 +10,7 @@ Questo progetto è una semplice **calcolatrice** sviluppata in **Node.js** che p
 - Gestione degli errori (es. divisione per zero)
 - Estendibile con funzionalità aggiuntive
 
-## Struttura del Progetto
+## 📂 Struttura del Progetto
 ```plaintext
 .
 ├── index.js              # Punto di ingresso principale dell'applicazione
