@@ -38,7 +38,7 @@ Funzionalità aggiuntive implementate:
 
 1. Avvia l'applicazione:
    ```bash
-   npm index.js
+   npm start
 
 2. Segui le istruzioni sulla riga di comando:
   - Scegli un'operazione (ad esempio, addizione o potenza).
