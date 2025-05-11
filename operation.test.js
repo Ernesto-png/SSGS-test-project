@@ -21,6 +21,10 @@ test('Divisione per zero lancia un errore', () => {
   expect(() => operations.divide(5, 0)).toThrow("Divisione per zero non consentita.");
 });
 
+test('Potenza 2^3 restituisce 8', () => {
+  expect(operations.power(2, 3)).toBe(8);
+});
+
 // Test per l'addizione "sbagliata"
 test.skip('Somma 3 + 5 ma verifica se è uguale a 7 (dovrebbe fallire)', () => {
   const result = operations.add(3, 5);
