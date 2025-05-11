@@ -4,7 +4,7 @@
   "description": "Una calcolatrice CLI sviluppata in Node.js per eseguire operazioni matematiche di base.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node src/index.js",
     "test": "jest"
   },
   "keywords": ["calculator", "CLI", "Node.js", "math", "ssgs"],
