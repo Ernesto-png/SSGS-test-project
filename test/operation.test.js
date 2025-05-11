@@ -1,5 +1,5 @@
 // Importiamo il modulo da testare
-const operations = require('./operations');
+const operations = require('../src/operations');
 
 // Test per l'addizione corretta
 test('Somma 2 + 2 e restituisce 4', () => {
