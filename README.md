@@ -65,7 +65,6 @@ Funzionalità aggiuntive implementate:
 
 
 ## 📂 Struttura del Progetto
-    ```plaintext
     .
     ├── index.js              # Punto di ingresso principale dell'applicazione
     ├── operations.js         # Modulo con le funzioni matematiche
