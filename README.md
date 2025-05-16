@@ -17,7 +17,7 @@ Questo progetto è una semplice **calcolatrice** sviluppata in **Node.js** che p
    cd ssgs-calc
 2. Installa le dipendenze:
    ```bash
-   npm install
+   npm ci
 
 ---
 
